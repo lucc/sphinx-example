@@ -28,7 +28,7 @@ extensions = [
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
-man_pages = [ ('man', 'prog', 'bug example', '', 1) ]
+man_pages = [ ('man', 'bug-example-1', 'bug example', '', 1) ]
 
 
 # -- Options for HTML output -------------------------------------------------
